@@ -1,0 +1,4 @@
+.single-project:hover>figure .p-img {
+    transition: 1s;
+    transform: scale(1.2);
+}
